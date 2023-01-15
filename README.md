@@ -5,8 +5,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Hello, I'm Cindy (she/her)
 
-* 🧩 Problem-solving programmer 
 * 🐊 Gator at heart (UF CISE & ISOM)
+* 🧩 Problem-solving programmer
 * 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/wcindyw/)
 
 ---
