@@ -3,4 +3,12 @@ wcindyw/wcindyw is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+### Hello, I'm Cindy 👋
+
+* 🧩 Problem-solving programmer 
+* 🐊 Gator at heart (UF CISE & ISOM)
+* 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/wcindyw/)
+
+---
+
 ![Visitor Count](https://profile-counter.glitch.me/wcindyw/count.svg)
